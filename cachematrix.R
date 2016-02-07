@@ -1,4 +1,4 @@
-#This functions allow time saving on inversing a certin matrix 
+#These functions allow time saving on inversing a certain matrix 
 #by means of storing its cached inverse data  and return it whenever needed
 
 #function makeCacheMatrix create cached data of a matrix and it's inverse  
